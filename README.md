@@ -1,6 +1,6 @@
 <samp><b>My VS Code setup</b></samp>
 
-[`.vscode/settings.json`](./.vscode/settings.json)<br>
+[`vscode/settings.json`](./.vscode/settings.json)<br>
 
 <br>
 <br
