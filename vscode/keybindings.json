@@ -1,0 +1,23 @@
+[
+  {
+    "key": "ctrl+n",
+    "command": "explorer.newFile",
+    "when": "!editorFocus"
+  },
+  {
+    "key": "ctrl+shift+n",
+    "command": "explorer.newFolder",
+    "when": "!editorFocus"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "runCommands",
+    "args": {
+      "commands": [
+        "workbench.action.terminal.new",
+        "workbench.action.terminal.focus",
+        "workbench.action.terminal.moveIntoNewWindow"
+      ]
+    }
+  }
+]
